@@ -29,6 +29,4 @@ headers = {
 def load_data():
     data = requests.request("POST", url, headers=headers, data=payload)
     return data.json()
-
-print(load_data())
     
