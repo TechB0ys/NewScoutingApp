@@ -1,2 +1,2 @@
 # NewScoutingApp
-(https://prod.liveshare.vsengsaas.visualstudio.com/join?8F939CA3FDFE5B33DF1A5C016445A3E40679)
+https://prod.liveshare.vsengsaas.visualstudio.com/join?D0AC9B9A2A448554607D26D306055047E0FD
